@@ -91,8 +91,8 @@ theme: yilia
 deploy: 
   type: git
   repo:
-       github: https://github.com/ray8367/ray8367.github.io.git
-       gitee: https://gitee.com/ray8367_admin/ray8367_admin.git,master
+       github: https://github.com/ray8367/ray8367.github.io.git,master
+       gitee: https://gitee.com/Milo_admin/Milo_admin.git,master
 
 jsonContent:
     meta: false

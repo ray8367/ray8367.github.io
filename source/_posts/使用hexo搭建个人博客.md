@@ -1,7 +1,7 @@
 ---
-title: 使用hexo搭建个人博客
+title: 使用Hexo搭建个人博客
 date: 2019-10-20 17:30:34
-tags: hexo
+tags: Hexo
 ---
 ### 准备环境：
 
